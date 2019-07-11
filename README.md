@@ -9,3 +9,8 @@ Sometimes you just want a fader. Nothing fancy, just up and down voltage. This l
 -   4 mA +12V
 -   0 mA -12V
 -   0 mA 5V
+
+
+
+
+Hardware shared under the [Creative Commons CC BY-NC-SA (4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) License. Contour map data available from U.S. Geological Survey, National Geospatial Program.
